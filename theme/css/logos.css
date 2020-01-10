@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'logos';
+  src:  url('../fonts/logos.eot?gu83oj');
+  src:  url('../fonts/logos.eot?gu83oj#iefix') format('embedded-opentype'),
+    url('../fonts/logos.ttf?gu83oj') format('truetype'),
+    url('../fonts/logos.woff?gu83oj') format('woff'),
+    url('../fonts/logos.svg?gu83oj#logos') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="fa-logo-"], [class*=" fa-logo-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'logos' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-logo-riot:before {
+  content: "\e908";
+  color: #07468f;
+}
+.fa-logo-isomer:before {
+  content: "\e900";
+}
+.fa-logo-hackerfleet:before {
+  content: "\e901";
+  color: #32547c;
+}
+.fa-logo-reddit:before {
+  content: "\e902";
+  color: #ff4500;
+}
+.fa-logo-gitlab:before {
+  content: "\e903";
+  color: #fca121;
+}
+.fa-logo-github:before {
+  content: "\e904";
+}
+.fa-logo-twitter:before {
+  content: "\e905";
+  color: #1da1f2;
+}
+.fa-logo-patreon:before {
+  content: "\e906";
+  color: #f96854;
+}
+.fa-logo-liberapay:before {
+  content: "\e907";
+  color: #f6c915;
+}

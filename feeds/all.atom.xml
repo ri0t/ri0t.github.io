@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>riot</title><link href="https://ri0t.github.io/" rel="alternate"></link><link href="https://ri0t.github.io/feeds/all.atom.xml" rel="self"></link><id>https://ri0t.github.io/</id><updated>2020-01-10T23:28:40+00:00</updated><entry><title>Donating</title><link href="https://ri0t.github.io/donating.html" rel="alternate"></link><published>2020-01-10T23:24:13+00:00</published><updated>2020-01-10T23:24:17+00:00</updated><author><name>Heiko 'riot' Weinen</name></author><id>tag:ri0t.github.io,2020-01-10:/donating.html</id><summary type="html">&lt;p class="first last"&gt;I'd be flattered to receive a donation from you. This page lists
+the options and means you can use to become my donor. Gratitude!&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;You can use Patreon and LibraPay to donate.&lt;/p&gt;
+&lt;p&gt;As long as i didn't come around to put links to those in here, please
+use the ones in the social box to the right (or below on mobile).&lt;/p&gt;
+</content><category term="meta"></category><category term="general"></category></entry><entry><title>It's a blog!</title><link href="https://ri0t.github.io/2020-01_new_blog.html" rel="alternate"></link><published>2020-01-10T21:59:18+00:00</published><updated>2020-01-10T23:28:40+00:00</updated><author><name>Heiko 'riot' Weinen</name></author><id>tag:ri0t.github.io,2020-01-10:/2020-01_new_blog.html</id><summary type="html">&lt;p class="first last"&gt;The very first blog entry on this new personal platform! o/&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Well, well. 30 Years in IT and i finally came around adding a personal site
+along with a &amp;quot;blog&amp;quot;. Newfangled technology. But everyone kept bugging me about
+it, so here you go. I sure hope it makes sense to someone.&lt;/p&gt;
+&lt;div class="section" id="content"&gt;
+&lt;h2&gt;Content?&lt;/h2&gt;
+&lt;p&gt;As everyone knows, a blog needs content. So what content can you expect here?&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introductory and tutorial stuff for the &lt;a class="reference external" href="https://isomer.eu"&gt;Isomer&lt;/a&gt; and
+&lt;a class="reference external" href="https://hackerfleet.eu"&gt;Hackerfleet&lt;/a&gt; projects&lt;/li&gt;
+&lt;li&gt;News about my &lt;a class="reference external" href="/tag/project.html"&gt;projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rants against &lt;a class="reference external" href="/tag/cloud.html"&gt;clown computing&lt;/a&gt; and for decentralization&lt;/li&gt;
+&lt;li&gt;Sometimes i produce creative content like music or even games&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, i hope you'll enjoy consuming this creative mess as much as i enjoy making
+it. If you like it too much, you might even
+&lt;a class="reference external" href="https://ri0t.github.io/donating.html"&gt;consider donating.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="blog"></category><category term="general"></category></entry><entry><title>Hire me</title><link href="https://ri0t.github.io/hire.html" rel="alternate"></link><published>2020-01-10T20:05:02+00:00</published><updated>2020-01-10T20:05:07+00:00</updated><author><name>Heiko 'riot' Weinen</name></author><id>tag:ri0t.github.io,2020-01-10:/hire.html</id><summary type="html">&lt;p class="first last"&gt;If you need consulting or other work done, here are the details on
+how to hire me.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Need consulting, expertise or someone to do the dirty work?&lt;/p&gt;
+&lt;p&gt;Fret not, you're in luck: You can hire me.&lt;/p&gt;
+&lt;div class="section" id="suitable-projects"&gt;
+&lt;h2&gt;Suitable Projects&lt;/h2&gt;
+&lt;p&gt;I have &lt;a class="reference external" href="https://ri0t.github.io/expertise.html"&gt;expertise in many fields&lt;/a&gt;, from accounting to zipping whole projects.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="conditions"&gt;
+&lt;h2&gt;Conditions&lt;/h2&gt;
+&lt;p&gt;I am managing and working for a lot of honorary projects, so i probably cannot
+join your project full time. This depends a little bit on your project, so if
+you think, you can bind me that much more, we can discuss it.&lt;/p&gt;
+&lt;p&gt;I am not really willing to relocate, so your gig better be located in central
+Berlin or work from remote office is okay for you. Also, i am not a morning
+person. At all.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="meta"></category><category term="general"></category><category term="business"></category></entry><entry><title>About me</title><link href="https://ri0t.github.io/about.html" rel="alternate"></link><published>2020-01-10T18:42:11+00:00</published><updated>2020-01-10T18:42:18+00:00</updated><author><name>Heiko 'riot' Weinen</name></author><id>tag:ri0t.github.io,2020-01-10:/about.html</id><summary type="html">&lt;p class="first last"&gt;General page about me. If you're looking for general information
+about me, this is the right page.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Hello! I'm a hacker living in Berlin. You can hire me for consulting and other
+things.&lt;/p&gt;
+</content><category term="meta"></category><category term="about"></category><category term="general"></category></entry><entry><title>My expertise</title><link href="https://ri0t.github.io/expertise.html" rel="alternate"></link><published>2020-01-10T18:42:11+00:00</published><updated>2020-01-10T18:42:18+00:00</updated><author><name>Heiko 'riot' Weinen</name></author><id>tag:ri0t.github.io,2020-01-10:/expertise.html</id><summary type="html">&lt;p class="first last"&gt;The things i am proficient in as well as details about my preferred IT
+technology stack and other related things around my expertise.&lt;/p&gt;
+</summary><content type="html">&lt;div class="section" id="general"&gt;
+&lt;h2&gt;General&lt;/h2&gt;
+&lt;p&gt;Things i tend to love doing, most even with a passion:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Automation (So i don't need to administrate ;)&lt;/li&gt;
+&lt;li&gt;Agile, Kanban and other GTD stuff&lt;/li&gt;
+&lt;li&gt;Cat herding (mostly in hackerspaces)&lt;/li&gt;
+&lt;li&gt;Community and crowd management&lt;/li&gt;
+&lt;li&gt;Continuous integration and delivery&lt;/li&gt;
+&lt;li&gt;Cryptology (Yes, cryptanalysis as well as cryptography)&lt;/li&gt;
+&lt;li&gt;Documentation production and management&lt;/li&gt;
+&lt;li&gt;Efficiency optimization&lt;/li&gt;
+&lt;li&gt;Event planning and organization&lt;/li&gt;
+&lt;li&gt;GIS (Geographic Information Systems)&lt;/li&gt;
+&lt;li&gt;Memetics&lt;/li&gt;
+&lt;li&gt;Mesh networking&lt;/li&gt;
+&lt;li&gt;Multimedia engineering and content creation&lt;/li&gt;
+&lt;li&gt;Opportunistic planning&lt;/li&gt;
+&lt;li&gt;Physical security&lt;/li&gt;
+&lt;li&gt;Project planning and execution&lt;/li&gt;
+&lt;li&gt;Strategy planning and execution&lt;/li&gt;
+&lt;li&gt;Testing and test driven design (Also: issue driven design ;)&lt;/li&gt;
+&lt;li&gt;Workload distribution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yeah, i know, this quite probably qualifies me to found startups and lead whole
+companies. Oooh! I did that, already! The paperwork, i tell you.. the paperwork!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="meta"&gt;
+&lt;h2&gt;Meta&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;I generally prefer opensource over closed/proprietary software.&lt;/dt&gt;
+&lt;dd&gt;&lt;dl class="first last docutils"&gt;
+&lt;dt&gt;There's a few notable exceptions:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last"&gt;
+&lt;li&gt;Bitwig Studio&lt;/li&gt;
+&lt;li&gt;Jetbrains IntelliJ Ultimate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;Restructured Text is waaay better than markdown!&lt;/li&gt;
+&lt;li&gt;If it comes down to text editors: vim!&lt;/li&gt;
+&lt;li&gt;I love open data formats and protocols&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="meta"></category><category term="about"></category><category term="general"></category></entry></feed>
